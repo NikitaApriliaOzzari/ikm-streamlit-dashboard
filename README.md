@@ -25,7 +25,7 @@ skala usaha yang telah dievaluasi dan dilatih ulang menggunakan seluruh data ber
 - `model/` : Model klasifikasi dan encoder hasil pemodelan
 - `notebook/` : Notebook pemodelan dan pengolahan data
 
-## Cara Menjalankan Aplikasi (Lokal)
+## Cara Menjalankan Aplikasi (Lokal dan Publik)
 ```bash
 python -m streamlit run app.py
 
